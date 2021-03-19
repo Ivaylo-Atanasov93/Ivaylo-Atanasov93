@@ -1,16 +1,19 @@
-### Hi there 👋
+#### Hi there, my name is Ivaylo Atanasov 👋
 
-<!--
-**Ivaylo-Atanasov93/Ivaylo-Atanasov93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my Portfolio projects.
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate on some open source projects.
+- 🤔 I’m looking for help with finding an entry level job in the industry.
+- 💬 Ask me about Python, Django, HTML, CSS
+- 📫 How to reach me: Coming soon!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun story:
+--> A programmers wife told him to go to the near by shop and buy some stuff and she sais:
+      - Buy a bottle of milk, if there are eggs in the shop, buy ten.
+    After a while the programmer is coming back home with 10 bottles of milk...
+    His wife:
+      - Why did you buy 10 bottles of milk ?!
+    The programmer:
+      - Because there were eggs in the shop, what do you mean why ?!
+      

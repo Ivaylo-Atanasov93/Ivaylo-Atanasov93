@@ -1,7 +1,7 @@
 #### Hi there, my name is Ivaylo Atanasov 👋
 
 - 🔭 I’m currently working on my Portfolio projects.
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning Django/Django-REST.
 - 👯 I’m looking to collaborate on some open source projects.
 - 🤔 I’m looking for help with finding an entry level job in the industry.
 - 💬 Ask me about Python, Django, HTML, CSS

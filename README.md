@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on some open source projects.
 - 🤔 I’m looking for help with finding an entry level job in the industry.
 - 💬 Ask me about Python, Django, HTML, CSS
-- 📫 How to reach me: Coming soon!
+- 📫 How to reach me: https://www.linkedin.com/in/ivaylo-atanasov-125896156/
 
 
 - ⚡ Fun story:

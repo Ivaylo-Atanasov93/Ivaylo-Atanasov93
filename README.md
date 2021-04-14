@@ -9,7 +9,7 @@
 
 
 - ⚡ Fun story:
---> A programmers wife told him to go to the near by shop and buy some stuff and she sais:
+--> A programmers wife told him to go to the near by shop and buy some stuff. She sais:
       - Buy a bottle of milk, if there are eggs in the shop, buy ten.
     After a while the programmer is coming back home with 10 bottles of milk...
     His wife:

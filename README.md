@@ -1,10 +1,9 @@
 #### Hi there, my name is Ivaylo Atanasov 👋
 
-- 🔭 I’m currently working on my Portfolio projects.
+- 🔭 I’m currently working as a Python Software Engineer.
 - 🌱 I’m currently learning Django/Django-REST.
 - 👯 I’m looking to collaborate on some open source projects.
-- 🤔 I’m looking for help with finding an entry level job in the industry.
-- 💬 Ask me about Python, Django, HTML, CSS
+- 💬 Ask me about Python, Django, HTML, CSS, Selenium, Web scraping, Automation software
 - 📫 How to reach me: https://www.linkedin.com/in/ivaylo-atanasov-125896156/
 
 

@@ -6,7 +6,7 @@
 
 
 - ⚡ Fun story:
---> A programmers wife told him to go to the near by shop and buy some stuff. She sais:
+--> A programmers wife told him to go to the near by shop and buy some stuff. She tells him:
       - Buy a bottle of milk, if there are eggs in the shop, buy ten.
     After a while the programmer is coming back home with 10 bottles of milk...
     His wife:
